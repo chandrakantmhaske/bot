@@ -8,14 +8,14 @@ document.addEventListener("DOMContentLoaded", () => {
         hello: "Hi there! How can I assist you?",
         help: "Sure! What do you need help with?",
         goodbye: "Goodbye! Have a great day!",
-        whatisyourname: "My Name is Chandrakant",
-        howareyou: "I'm just a bot, but I'm here to help you!",
-        whatdoyoudo: "I am a chatbot designed to assist with your queries.",
-        wherelive: "I live in the cloud, ready to assist you anytime!",
-        tellmeajoke: "Why don't programmers like nature? Too many bugs!",
-        favoritecolor: "I like all colors equally because I am a bot!",
-        whatistime: "I don't keep track of time, but your device does!",
-        default: "I'm sorry, I didn't understand that. Can you rephrase?",
+        "what is your name": "My Name is Chandrakant",
+        "how are you": "I'm just a bot, but I'm here to help you!",
+        "what do you do": "I am a chatbot designed to assist with your queries.",
+        "where do you live": "I live in the cloud, ready to assist you anytime!",
+        "tell me a joke": "Why don't programmers like nature? Too many bugs!",
+        "favorite color": "I like all colors equally because I am a bot!",
+        "what is the time": "I don't keep track of time, but your device does!",
+        default: "I'm sorry Chandrakant, I didn't understand that. Can you try again?",
     };
 
     // Add a message to the chat
